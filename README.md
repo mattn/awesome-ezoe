@@ -9,3 +9,5 @@
 - [haskell](https://github.com/tanakh/ezoe)
 
 - [clojure](https://github.com/mattn/clj-ezoe)
+
+- [rust](https://github.com/woxtu/rust-ezoe)
