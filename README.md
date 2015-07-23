@@ -11,3 +11,5 @@
 - [clojure](https://github.com/mattn/clj-ezoe)
 
 - [rust](https://github.com/woxtu/rust-ezoe)
+
+- [Elixir](https://github.com/axsann/ezoelixir)
